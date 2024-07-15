@@ -20,6 +20,7 @@ public class CoPilotDemo {
 
         System.out.println("The miles per gallon is: " + mpg);
 
+        //input is closed now
         input.close();
     }
 }
